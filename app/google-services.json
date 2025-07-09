@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "519979815482",
+    "project_id": "footballdilalpur",
+    "storage_bucket": "footballdilalpur.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519979815482:android:7835514e668814d4d9db03",
+        "android_client_info": {
+          "package_name": "com.example.footballdilalpur"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQVd9hb3ewHE-KrX287IPEXGC9pSJiFhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
